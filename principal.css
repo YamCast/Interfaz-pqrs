@@ -1,0 +1,35 @@
+.cuerpo{
+
+    text-align: center; 
+    align-items: center;
+    justify-content: center;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+.contenedor{
+    background-color: #eeddd4;
+}
+
+.form{
+    font-size: 30px;
+    margin: 5px;
+}
+
+.boton{
+    color: aliceblue;
+    background-color: #cf5619;
+    padding: 10px;
+    border:none;
+    transition: width 0.2s;
+    width: 20%;
+}
+
+.boton:hover{
+   background-color: #df762c;
+   width: 22%;
+   
+}
+
+input{
+    padding: 10px;
+}
